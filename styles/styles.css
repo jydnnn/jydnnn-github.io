@@ -267,7 +267,7 @@ input[type=text], input[type=email] {
   }
 
 #motto {
-  color: rgb(92, 92, 92);
+  color: rgb(139, 139, 139);
   padding-bottom: 20px;
   opacity: 0.2;
   animation: fadeIn ease 25s;
